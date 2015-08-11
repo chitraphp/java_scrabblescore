@@ -1,0 +1,41 @@
+User inputs word and app outputs score of word
+
+1.Scrabble takes a single capital letter
+Input:A
+Output:1
+
+2.Scrabble takes a single lowercase letter
+Input:A
+Output:1
+
+2.Scrabble takes a two letter word letter
+Input:an
+Output:2
+
+3.Scrabble takes a capital and small letter
+Input:An
+Output:2
+
+4.Scrabble takes a two capital letters
+Input:AN
+Output:2
+
+5. Scrabble takes a word made of different valued letters
+Input: and
+Output:4
+
+6. Scrabble takes a word made of uppercase and lowercase letters of different values.
+Input: Zebra
+Output: 16
+
+7. Scrabble takes a word made of a 10 point letter and an 8 point letter.
+Input: jq
+Output: 18
+
+8. Scrabble takes a word made of a 5 point letter and a 4 point letter.
+Input:fk
+Output:9
+
+9. Scrabble takes a word made of a 3 point letter and a 4 point letter.
+Input:bw
+Output:7
